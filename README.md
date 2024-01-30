@@ -1,4 +1,4 @@
-![Hey, I'm Yuri Sementsov](hello.png)
+# Hey, I'm Yuri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" />
 
 I’m a Front-End Engineer, Software Architect, and Tech Lead at [Ecentria](https://ecentria.com) / [Intexsys](https://www.intexsys.lv), where I work on creating user-friendly and high-performance e-commerce stores. With over 20 years of experience in web development, I’m passionate about Front-End, UI/UX, FrontOps, JAMstack, and Web Performance optimization. 
 
